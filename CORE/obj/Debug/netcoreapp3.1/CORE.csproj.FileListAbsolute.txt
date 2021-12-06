@@ -1,0 +1,9 @@
+C:\Users\Celilhan\source\repos\Mobilya\CORE\bin\Debug\netcoreapp3.1\CORE.deps.json
+C:\Users\Celilhan\source\repos\Mobilya\CORE\bin\Debug\netcoreapp3.1\CORE.dll
+C:\Users\Celilhan\source\repos\Mobilya\CORE\bin\Debug\netcoreapp3.1\CORE.pdb
+C:\Users\Celilhan\source\repos\Mobilya\CORE\obj\Debug\netcoreapp3.1\CORE.csprojAssemblyReference.cache
+C:\Users\Celilhan\source\repos\Mobilya\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfoInputs.cache
+C:\Users\Celilhan\source\repos\Mobilya\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfo.cs
+C:\Users\Celilhan\source\repos\Mobilya\CORE\obj\Debug\netcoreapp3.1\CORE.csproj.CoreCompileInputs.cache
+C:\Users\Celilhan\source\repos\Mobilya\CORE\obj\Debug\netcoreapp3.1\CORE.dll
+C:\Users\Celilhan\source\repos\Mobilya\CORE\obj\Debug\netcoreapp3.1\CORE.pdb
